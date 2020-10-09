@@ -1,0 +1,1 @@
+export { Editar as default } from './editar'

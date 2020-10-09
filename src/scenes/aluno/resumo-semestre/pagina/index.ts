@@ -1,0 +1,1 @@
+export { PaginaResumoSemestre as default } from './pagina'

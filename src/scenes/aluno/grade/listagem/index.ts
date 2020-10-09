@@ -1,0 +1,1 @@
+export { Listagem as default } from './listagem'

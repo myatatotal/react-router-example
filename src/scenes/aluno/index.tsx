@@ -1,0 +1,1 @@
+export { Aluno as default } from './aluno';

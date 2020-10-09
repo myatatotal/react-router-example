@@ -1,0 +1,1 @@
+export { DetalhesMes as default } from './detalhes-mes'
